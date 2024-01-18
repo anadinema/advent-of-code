@@ -14,9 +14,9 @@ OpenAPI specification for the API can be accessed below:
 
 Use [maven](https://maven.apache.org/download.cgi) to build the backend.
 
-    ```bash
-    mvn clean package
-    ```
+```bash
+mvn clean package
+```
 
 This will build and package the application which can be then run using the fat jar.
 
