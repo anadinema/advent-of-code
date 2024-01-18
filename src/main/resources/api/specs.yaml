@@ -47,7 +47,7 @@ paths:
           treb7uchet
           ```
         
-        In this example, the calibratix`on values of these four lines are `12`, `38`, `15`, and `77`.
+        In this example, the calibration on values of these four lines are `12`, `38`, `15`, and `77`.
         
         Adding these together produces `142`.
         
