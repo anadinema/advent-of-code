@@ -1,0 +1,10 @@
+server:
+  port: '28080'
+  servlet:
+    context-path: '/api/rest/project/advent'
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: 'health,info,prometheus'
